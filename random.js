@@ -21,16 +21,16 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*20)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2019/04/how-to-choose-best-erp-software-for-3.html"}
-if(x=="2"){xxx="/2019/04/4-important-preparations-before.html"}
-if(x=="3"){xxx="/2019/04/things-you-must-know-before-using.html"}
-if(x=="4"){xxx="/2019/04/3-best-alternative-choices-in-list-of.html"}
-if(x=="5"){xxx="/2019/04/the-right-time-to-replace-your-old.html"}
-if(x=="6"){xxx="/2019/04/the-most-important-features-in-erp.html"}
-if(x=="7"){xxx="/2019/04/3-main-syteline-erp-software-main.html"}
-if(x=="8"){xxx="/2019/04/3-tips-for-choosing-erp-software.html"}
-if(x=="9"){xxx="/2019/04/the-best-erp-software-on-market-and.html"}
-if(x=="10"){xxx="/2019/04/how-to-pick-best-erp-business-systems.html"}a_to_ve[i].href="http://www.healthyfamily98.bid"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2019/08/how-manufacturing-project-management.html"}
+if(x=="2"){xxx="/2019/08/the-best-quoting-software-for.html"}
+if(x=="3"){xxx="/2019/08/the-best-quality-control-software-for.html"}
+if(x=="4"){xxx="/2019/08/lists-of-mrp-software-for-small-business.html"}
+if(x=="5"){xxx="/2019/08/lists-of-manufacturing-resource.html"}
+if(x=="6"){xxx="/2019/08/5-best-cam-software-you-can-choose.html"}
+if(x=="7"){xxx="/2019/08/5-main-benefits-of-manufacturing.html"}
+if(x=="8"){xxx="/2019/08/make-business-more-efficient-with.html"}
+if(x=="9"){xxx="/2019/08/the-importance-of-manufacturing-cost.html"}
+if(x=="10"){xxx="/2019/08/manufacturing-process-management.html"}a_to_ve[i].href="https://www.marrives.xyz"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
