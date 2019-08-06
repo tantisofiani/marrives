@@ -20,7 +20,7 @@ j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*11)+ 1);
-var xxx=null;
+var xxx=https://www.marrives.xyz;
 if(x=="1"){xxx="/2019/08/how-manufacturing-project-management.html"}
 if(x=="2"){xxx="/2019/08/the-best-quoting-software-for.html"}
 if(x=="3"){xxx="/2019/08/the-best-quality-control-software-for.html"}
